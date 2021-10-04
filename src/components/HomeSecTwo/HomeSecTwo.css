@@ -1,0 +1,15 @@
+.fish-meal-wrapper{
+    margin: 15px 0;
+    padding: 25px 0;
+    background-color: rgb(245, 244, 244);
+}
+.fish-meal-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.sec-two-heading{
+ padding: 25px 0;
+}
+.sec-two-heading span{
+    color: #e2874d;
+}
